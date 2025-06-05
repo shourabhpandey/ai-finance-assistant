@@ -1,0 +1,6 @@
+langchain
+langgraph
+langsmith
+openai
+pandas
+streamlit
