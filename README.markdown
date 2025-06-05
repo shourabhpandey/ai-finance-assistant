@@ -18,6 +18,15 @@ The application uses a multi-agent system to process and analyze financial data:
 3. **Summary Agent**: Aggregates data to produce monthly spending summaries.
 4. **Advisor Agent**: Analyzes patterns and generates personalized financial advice.
 
+## Screenshots
+
+1.
+![Screenshot 1](https://github.com/shourabhpandey/ai-finance-assistant/blob/main/Screenshot%202025-06-05%20at%2012.59.22.png)
+
+2.
+![Screenshot 2](https://github.com/shourabhpandey/ai-finance-assistant/blob/main/Screenshot%202025-06-05%20at%2012.59.44.png)
+
+
 ## Installation
 
 To set up and run the project locally, follow these steps:
