@@ -22,7 +22,7 @@ An intelligent Streamlit web app that analyzes personal financial transactions u
 git clone https://github.com/yourusername/ai-finance-assistant.git
 cd ai-finance-assistant
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py```
 
 
 ## Folder Structure
